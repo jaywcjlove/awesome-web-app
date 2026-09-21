@@ -113,6 +113,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 - [NocoDB](https://github.com/nocodb/nocodb) <img align="bottom" height="13" src="https://badgen.net/github/stars/nocodb/nocodb?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/nocodb/nocodb?style=flat&label=" /> - Turns MySQL, PostgreSQL, SQLite and other databases into a smart spreadsheet.
 - [Zinc](https://github.com/prabhatsharma/zinc) <img align="bottom" height="13" src="https://badgen.net/github/stars/prabhatsharma/zinc?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/prabhatsharma/zinc?style=flat&label=" /> - A lightweight full-text search engine and Elasticsearch alternative with a web UI.
 - [Plausible](https://github.com/plausible/analytics) <img align="bottom" height="13" src="https://badgen.net/github/stars/plausible/analytics?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/plausible/analytics?style=flat&label=" /> - A lightweight, self-hosted web analytics and an open-source Google Analytics alternative.
+- [Sonic](https://github.com/valeriansaliou/sonic) <img align="bottom" height="13" src="https://badgen.net/github/stars/valeriansaliou/sonic?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/valeriansaliou/sonic?style=flat&label=" /> - A fast, lightweight search backend that can serve as an Elasticsearch alternative.
 
 ## Documentation & Wiki
 
