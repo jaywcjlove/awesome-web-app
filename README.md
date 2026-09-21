@@ -131,6 +131,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 - [Chatwoot](https://github.com/chatwoot/chatwoot) <img align="bottom" height="13" src="https://badgen.net/github/stars/chatwoot/chatwoot?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/chatwoot/chatwoot?style=flat&label=" /> - An open-source live chat software, an alternative to Intercom, Zendesk and Crisp.
 - [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) <img align="bottom" height="13" src="https://badgen.net/github/stars/RocketChat/Rocket.Chat?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/RocketChat/Rocket.Chat?style=flat&label=" /> - A feature-rich team chat platform and one of the best open-source Slack alternatives.
 - [Chat](https://github.com/tinode/chat) <img align="bottom" height="13" src="https://badgen.net/github/stars/tinode/chat?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/tinode/chat?style=flat&label=" /> - An instant messaging platform with web, iOS, Android and command-line clients.
+- [listmonk](https://github.com/knadh/listmonk) <img align="bottom" height="13" src="https://badgen.net/github/stars/knadh/listmonk?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/knadh/listmonk?style=flat&label=" /> - A self-hosted newsletter and mailing list manager with a web admin panel.
 
 ## Development Tools
 
