@@ -129,6 +129,7 @@
 ## 媒体与娱乐
 
 - [Jellyfin](https://github.com/jellyfin/jellyfin) <img align="bottom" height="13" src="https://badgen.net/github/stars/jellyfin/jellyfin?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/jellyfin/jellyfin?style=flat&label=" /> - 免费开源媒体系统，用于管理和流式传输你的媒体，可替代 Emby 和 Plex。
+- [Navidrome](https://github.com/navidrome/navidrome) <img align="bottom" height="13" src="https://badgen.net/github/stars/navidrome/navidrome?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/navidrome/navidrome?style=flat&label=" /> - 开源音乐流媒体服务器，提供 Web 管理界面管理自己的音乐文件。
 
 ## 贡献者
 
