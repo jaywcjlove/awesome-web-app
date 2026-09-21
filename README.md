@@ -144,6 +144,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 
 - [Jellyfin](https://github.com/jellyfin/jellyfin) <img align="bottom" height="13" src="https://badgen.net/github/stars/jellyfin/jellyfin?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/jellyfin/jellyfin?style=flat&label=" /> - A free media system to manage and stream your media, an alternative to Emby and Plex.
 - [Navidrome](https://github.com/navidrome/navidrome) <img align="bottom" height="13" src="https://badgen.net/github/stars/navidrome/navidrome?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/navidrome/navidrome?style=flat&label=" /> - An open-source music streaming server with a web interface for managing your music.
+- [Pixelfed](https://github.com/pixelfed/pixelfed) <img align="bottom" height="13" src="https://badgen.net/github/stars/pixelfed/pixelfed?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/pixelfed/pixelfed?style=flat&label=" /> - A federated photo sharing service and an open-source Instagram alternative.
 
 ## Design & Creativity
 
