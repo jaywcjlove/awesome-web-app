@@ -89,6 +89,7 @@
 - [TLSFlow](https://github.com/tlsflow/TLSFlow) <img align="bottom" height="13" src="https://badgen.net/github/stars/tlsflow/TLSFlow?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/tlsflow/TLSFlow?style=flat&label=" /> - 自动化管理 SSL/TLS 证书更新，支持验证与回滚。
 - [Dub](https://github.com/dubinc/dub) <img align="bottom" height="13" src="https://badgen.net/github/stars/dubinc/dub?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/dubinc/dub?style=flat&label=" /> - 开源的链接归因平台，支持短链接、转化跟踪和联盟计划。
 - [rathole](https://github.com/rathole-org/rathole) <img align="bottom" height="13" src="https://badgen.net/github/stars/rathole-org/rathole?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/rathole-org/rathole?style=flat&label=" /> - 轻量级反向代理，用于安全、高性能的内网穿透。
+- [frp](https://github.com/fatedier/frp) <img align="bottom" height="13" src="https://badgen.net/github/stars/fatedier/frp?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/fatedier/frp?style=flat&label=" /> - 高性能反向代理，用于 TCP、UDP 内网穿透及 HTTP/HTTPS 应用代理。
 
 ## 贡献者
 
