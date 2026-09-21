@@ -87,6 +87,7 @@
 - [商业与办公](#商业与办公)
 - [开发工具](#开发工具)
 - [媒体与娱乐](#媒体与娱乐)
+- [设计与创意](#设计与创意)
 
 <!--idoc:ignore:end-->
 
@@ -108,6 +109,7 @@
 
 - [Memphis](https://github.com/memphisdev/memphis-broker) <img align="bottom" height="13" src="https://badgen.net/github/stars/memphisdev/memphis-broker?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/memphisdev/memphis-broker?style=flat&label=" /> - 开源的高可扩展实时数据流处理平台，让数据流处理变得轻松简单。
 - [NocoDB](https://github.com/nocodb/nocodb) <img align="bottom" height="13" src="https://badgen.net/github/stars/nocodb/nocodb?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/nocodb/nocodb?style=flat&label=" /> - 将 MySQL、PostgreSQL、SQLite 等数据库转换为智能电子表格。
+- [Zinc](https://github.com/prabhatsharma/zinc) <img align="bottom" height="13" src="https://badgen.net/github/stars/prabhatsharma/zinc?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/prabhatsharma/zinc?style=flat&label=" /> - 轻量级全文搜索引擎，Elasticsearch 替代品，自带 Web 管理界面。
 
 ## 文档与知识库
 
@@ -123,6 +125,7 @@
 - [Odoo](https://github.com/odoo/odoo) <img align="bottom" height="13" src="https://badgen.net/github/stars/odoo/odoo?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/odoo/odoo?style=flat&label=" /> - 开源商业应用套件，涵盖 CRM、电商、库存、项目管理和会计等。
 - [Chatwoot](https://github.com/chatwoot/chatwoot) <img align="bottom" height="13" src="https://badgen.net/github/stars/chatwoot/chatwoot?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/chatwoot/chatwoot?style=flat&label=" /> - 开源实时客服聊天软件，可替代 Intercom、Zendesk、Crisp 等。
 - [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) <img align="bottom" height="13" src="https://badgen.net/github/stars/RocketChat/Rocket.Chat?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/RocketChat/Rocket.Chat?style=flat&label=" /> - 功能丰富的团队聊天平台，特性最多的 Slack 开源替代品之一。
+- [Chat](https://github.com/tinode/chat) <img align="bottom" height="13" src="https://badgen.net/github/stars/tinode/chat?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/tinode/chat?style=flat&label=" /> - 即时消息传递平台，提供 Web、iOS、Android 及命令行客户端。
 
 ## 开发工具
 
