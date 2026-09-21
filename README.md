@@ -88,7 +88,8 @@ Contributions are welcome via PR, and I will feature your app on my social media
 
 - [LibreDB Studio](https://github.com/libredb/libredb-studio) <img align="bottom" height="13" src="https://badgen.net/github/stars/libredb/libredb-studio?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/libredb/libredb-studio?style=flat&label=" /> - A web-based database IDE that runs alongside your databases and supports 16 database systems.
 - [TLSFlow](https://github.com/tlsflow/TLSFlow) <img align="bottom" height="13" src="https://badgen.net/github/stars/tlsflow/TLSFlow?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/tlsflow/TLSFlow?style=flat&label=" /> - Automates SSL/TLS certificate renewals with verification and rollback.
-- [Dub](https://github.com/dubinc/dub) <img align="bottom" height="13" src="https://badgen.net/github/stars/dubinc/dub?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/dubinc/dub?style=flat&label=" /> - An open-source link attribution platform for short links, conversion tracking, and affiliate programs.
+- [Dub](https://github.com/dubinc/dub) <img align="bottom" height="13" src="https://badgen.net/github/stars/dubinc/dub?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/dubinc/dub?style=flat&label=" /> - Open-source link attribution for short links, conversion tracking, and affiliate programs.
+- [rathole](https://github.com/rathole-org/rathole) <img align="bottom" height="13" src="https://badgen.net/github/stars/rathole-org/rathole?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/rathole-org/rathole?style=flat&label=" /> - A lightweight reverse proxy for secure, high-performance NAT traversal.
 
 ## Contributors
 
