@@ -80,6 +80,12 @@
 ## 目录
 
 - [工具与实用程序](#工具与实用程序)
+- [网络与代理](#网络与代理)
+- [数据与流处理](#数据与流处理)
+- [文档与知识库](#文档与知识库)
+- [服务器与自托管](#服务器与自托管)
+- [商业与办公](#商业与办公)
+- [开发工具](#开发工具)
 
 <!--idoc:ignore:end-->
 
@@ -88,8 +94,34 @@
 - [LibreDB Studio](https://github.com/libredb/libredb-studio) <img align="bottom" height="13" src="https://badgen.net/github/stars/libredb/libredb-studio?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/libredb/libredb-studio?style=flat&label=" /> - 部署在数据库旁的 Web 数据库 IDE，支持 16 种数据库。
 - [TLSFlow](https://github.com/tlsflow/TLSFlow) <img align="bottom" height="13" src="https://badgen.net/github/stars/tlsflow/TLSFlow?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/tlsflow/TLSFlow?style=flat&label=" /> - 自动化管理 SSL/TLS 证书更新，支持验证与回滚。
 - [Dub](https://github.com/dubinc/dub) <img align="bottom" height="13" src="https://badgen.net/github/stars/dubinc/dub?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/dubinc/dub?style=flat&label=" /> - 开源的链接归因平台，支持短链接、转化跟踪和联盟计划。
+
+## 网络与代理
+
 - [rathole](https://github.com/rathole-org/rathole) <img align="bottom" height="13" src="https://badgen.net/github/stars/rathole-org/rathole?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/rathole-org/rathole?style=flat&label=" /> - 轻量级反向代理，用于安全、高性能的内网穿透。
 - [frp](https://github.com/fatedier/frp) <img align="bottom" height="13" src="https://badgen.net/github/stars/fatedier/frp?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/fatedier/frp?style=flat&label=" /> - 高性能反向代理，用于 TCP、UDP 内网穿透及 HTTP/HTTPS 应用代理。
+- [nps](https://github.com/ehang-io/nps) <img align="bottom" height="13" src="https://badgen.net/github/stars/ehang-io/nps?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/ehang-io/nps?style=flat&label=" /> - 轻量级、高性能的内网穿透代理服务器，支持多种流量转发，带有 Web 管理端。
+- [Chisel](https://github.com/jpillora/chisel) <img align="bottom" height="13" src="https://badgen.net/github/stars/jpillora/chisel?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/jpillora/chisel?style=flat&label=" /> - 基于 HTTP 传输、SSH 加密的快速 TCP/UDP 隧道工具，常用于穿透防火墙。
+- [pgrok](https://github.com/pgrok/pgrok) <img align="bottom" height="13" src="https://badgen.net/github/stars/pgrok/pgrok?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/pgrok/pgrok?style=flat&label=" /> - 平替版 ngrok：基于 SSH 远程端口转发的多租户 HTTP/TCP 反向隧道方案。
+
+## 数据与流处理
+
+- [Memphis](https://github.com/memphisdev/memphis-broker) <img align="bottom" height="13" src="https://badgen.net/github/stars/memphisdev/memphis-broker?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/memphisdev/memphis-broker?style=flat&label=" /> - 开源的高可扩展实时数据流处理平台，让数据流处理变得轻松简单。
+
+## 文档与知识库
+
+- [Docmost](https://github.com/docmost/docmost) <img align="bottom" height="13" src="https://badgen.net/github/stars/docmost/docmost?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/docmost/docmost?style=flat&label=" /> - 开源协作式 Wiki 与文档软件，可替代 Confluence 和 Notion。
+
+## 服务器与自托管
+
+- [Umbrel](https://github.com/getumbrel/umbrel) <img align="bottom" height="13" src="https://badgen.net/github/stars/getumbrel/umbrel?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/getumbrel/umbrel?style=flat&label=" /> - 优雅的家庭服务器操作系统，内置 300 多款自托管应用的应用商店。
+
+## 商业与办公
+
+- [Odoo](https://github.com/odoo/odoo) <img align="bottom" height="13" src="https://badgen.net/github/stars/odoo/odoo?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/odoo/odoo?style=flat&label=" /> - 开源商业应用套件，涵盖 CRM、电商、库存、项目管理和会计等。
+
+## 开发工具
+
+- [Phoenix](https://github.com/phcode-dev/phoenix) <img align="bottom" height="13" src="https://badgen.net/github/stars/phcode-dev/phoenix?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/phcode-dev/phoenix?style=flat&label=" /> - 基于 Brackets 打造的 Web 版代码编辑器，可当作线上 IDE 使用。
 
 ## 贡献者
 

@@ -81,6 +81,12 @@ Contributions are welcome via PR, and I will feature your app on my social media
 ## Contents
 
 - [Tools & Utilities](#tools--utilities)
+- [Networking & Proxy](#networking--proxy)
+- [Data & Streaming](#data--streaming)
+- [Documentation & Wiki](#documentation--wiki)
+- [Server & Self-Hosting](#server--self-hosting)
+- [Business & Office](#business--office)
+- [Development Tools](#development-tools)
 
 <!--idoc:ignore:end-->
 
@@ -89,8 +95,34 @@ Contributions are welcome via PR, and I will feature your app on my social media
 - [LibreDB Studio](https://github.com/libredb/libredb-studio) <img align="bottom" height="13" src="https://badgen.net/github/stars/libredb/libredb-studio?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/libredb/libredb-studio?style=flat&label=" /> - A web-based database IDE that runs alongside your databases and supports 16 database systems.
 - [TLSFlow](https://github.com/tlsflow/TLSFlow) <img align="bottom" height="13" src="https://badgen.net/github/stars/tlsflow/TLSFlow?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/tlsflow/TLSFlow?style=flat&label=" /> - Automates SSL/TLS certificate renewals with verification and rollback.
 - [Dub](https://github.com/dubinc/dub) <img align="bottom" height="13" src="https://badgen.net/github/stars/dubinc/dub?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/dubinc/dub?style=flat&label=" /> - Open-source link attribution for short links, conversion tracking, and affiliate programs.
+
+## Networking & Proxy
+
 - [rathole](https://github.com/rathole-org/rathole) <img align="bottom" height="13" src="https://badgen.net/github/stars/rathole-org/rathole?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/rathole-org/rathole?style=flat&label=" /> - A lightweight reverse proxy for secure, high-performance NAT traversal.
 - [frp](https://github.com/fatedier/frp) <img align="bottom" height="13" src="https://badgen.net/github/stars/fatedier/frp?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/fatedier/frp?style=flat&label=" /> - A high-performance reverse proxy for NAT traversal over TCP and UDP.
+- [nps](https://github.com/ehang-io/nps) <img align="bottom" height="13" src="https://badgen.net/github/stars/ehang-io/nps?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/ehang-io/nps?style=flat&label=" /> - A lightweight, high-performance intranet penetration proxy server with a powerful web management terminal.
+- [Chisel](https://github.com/jpillora/chisel) <img align="bottom" height="13" src="https://badgen.net/github/stars/jpillora/chisel?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/jpillora/chisel?style=flat&label=" /> - A fast TCP/UDP tunnel over HTTP secured via SSH, useful for passing through firewalls.
+- [pgrok](https://github.com/pgrok/pgrok) <img align="bottom" height="13" src="https://badgen.net/github/stars/pgrok/pgrok?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/pgrok/pgrok?style=flat&label=" /> - A poor man's ngrok: multi-tenant HTTP/TCP reverse tunnel solution via SSH port forwarding.
+
+## Data & Streaming
+
+- [Memphis](https://github.com/memphisdev/memphis-broker) <img align="bottom" height="13" src="https://badgen.net/github/stars/memphisdev/memphis-broker?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/memphisdev/memphis-broker?style=flat&label=" /> - A highly scalable and effortless data streaming platform for real-time data processing.
+
+## Documentation & Wiki
+
+- [Docmost](https://github.com/docmost/docmost) <img align="bottom" height="13" src="https://badgen.net/github/stars/docmost/docmost?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/docmost/docmost?style=flat&label=" /> - An open-source collaborative wiki and documentation software, an alternative to Confluence and Notion.
+
+## Server & Self-Hosting
+
+- [Umbrel](https://github.com/getumbrel/umbrel) <img align="bottom" height="13" src="https://badgen.net/github/stars/getumbrel/umbrel?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/getumbrel/umbrel?style=flat&label=" /> - An elegant home server OS with an app store of over 300 self-hosted apps.
+
+## Business & Office
+
+- [Odoo](https://github.com/odoo/odoo) <img align="bottom" height="13" src="https://badgen.net/github/stars/odoo/odoo?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/odoo/odoo?style=flat&label=" /> - Open-source business apps covering CRM, eCommerce, inventory, project management, and accounting.
+
+## Development Tools
+
+- [Phoenix](https://github.com/phcode-dev/phoenix) <img align="bottom" height="13" src="https://badgen.net/github/stars/phcode-dev/phoenix?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/phcode-dev/phoenix?style=flat&label=" /> - A web-based code editor built on Brackets that can be used as an online IDE.
 
 ## Contributors
 
