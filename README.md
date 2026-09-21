@@ -113,6 +113,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 ## Documentation & Wiki
 
 - [Docmost](https://github.com/docmost/docmost) <img align="bottom" height="13" src="https://badgen.net/github/stars/docmost/docmost?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/docmost/docmost?style=flat&label=" /> - An open-source collaborative wiki and documentation software, an alternative to Confluence and Notion.
+- [Think](https://github.com/fantasticit/think) <img align="bottom" height="13" src="https://badgen.net/github/stars/fantasticit/think?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/fantasticit/think?style=flat&label=" /> - A self-hosted knowledge management tool with collaborative documents.
 
 ## Server & Self-Hosting
 

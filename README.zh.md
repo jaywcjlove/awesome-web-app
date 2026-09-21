@@ -112,6 +112,7 @@
 ## 文档与知识库
 
 - [Docmost](https://github.com/docmost/docmost) <img align="bottom" height="13" src="https://badgen.net/github/stars/docmost/docmost?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/docmost/docmost?style=flat&label=" /> - 开源协作式 Wiki 与文档软件，可替代 Confluence 和 Notion。
+- [云策文档 Think](https://github.com/fantasticit/think) <img align="bottom" height="13" src="https://badgen.net/github/stars/fantasticit/think?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/fantasticit/think?style=flat&label=" /> - 开源知识管理工具，支持自部署和多人协作文档。
 
 ## 服务器与自托管
 
