@@ -160,8 +160,8 @@
 
 一如既往，感谢这些出色的贡献者！
 
-<a href="https://github.com/jaywcjlove/awesome-rust-apps/graphs/contributors">
-  <img src="https://jaywcjlove.github.io/awesome-rust-apps/CONTRIBUTORS.svg" />
+<a href="https://github.com/jaywcjlove/awesome-web-app/graphs/contributors">
+  <img src="https://jaywcjlove.github.io/awesome-web-app/CONTRIBUTORS.svg" />
 </a>
 
 由 [Contributors](https://github.com/jaywcjlove/github-action-contributors) 生成。

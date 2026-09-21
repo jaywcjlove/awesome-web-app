@@ -161,8 +161,8 @@ Contributions are welcome via PR, and I will feature your app on my social media
 
 As always, thanks to our amazing contributors!
 
-<a href="https://github.com/jaywcjlove/awesome-rust-apps/graphs/contributors">
-  <img src="https://jaywcjlove.github.io/awesome-rust-apps/CONTRIBUTORS.svg" />
+<a href="https://github.com/jaywcjlove/awesome-web-app/graphs/contributors">
+  <img src="https://jaywcjlove.github.io/awesome-web-app/CONTRIBUTORS.svg" />
 </a>
 
 Made with [Contributors](https://github.com/jaywcjlove/github-action-contributors).
