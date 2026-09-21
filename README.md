@@ -135,6 +135,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 - [Phoenix](https://github.com/phcode-dev/phoenix) <img align="bottom" height="13" src="https://badgen.net/github/stars/phcode-dev/phoenix?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/phcode-dev/phoenix?style=flat&label=" /> - A web-based code editor built on Brackets that can be used as an online IDE.
 - [CodeFever](https://github.com/PGYER/codefever) <img align="bottom" height="13" src="https://badgen.net/github/stars/PGYER/codefever?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/PGYER/codefever?style=flat&label=" /> - An open-source self-hosted Git code hosting service.
 - [Appwrite](https://github.com/appwrite/appwrite) <img align="bottom" height="13" src="https://badgen.net/github/stars/appwrite/appwrite?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/appwrite/appwrite?style=flat&label=" /> - A self-hosted backend platform with auth, databases, storage, functions and more.
+- [OneDev](https://github.com/theonedev/onedev) <img align="bottom" height="13" src="https://badgen.net/github/stars/theonedev/onedev?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/theonedev/onedev?style=flat&label=" /> - A self-hosted DevOps platform with Git hosting, issue tracking, pull requests and CI.
 
 ## Media & Entertainment
 
