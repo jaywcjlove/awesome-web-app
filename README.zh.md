@@ -105,7 +105,7 @@
 - [nps](https://github.com/ehang-io/nps) <img align="bottom" height="13" src="https://badgen.net/github/stars/ehang-io/nps?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/ehang-io/nps?style=flat&label=" /> - 轻量级、高性能的内网穿透代理服务器，支持多种流量转发，带有 Web 管理端。
 - [Chisel](https://github.com/jpillora/chisel) <img align="bottom" height="13" src="https://badgen.net/github/stars/jpillora/chisel?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/jpillora/chisel?style=flat&label=" /> - 基于 HTTP 传输、SSH 加密的快速 TCP/UDP 隧道工具，常用于穿透防火墙。
 - [pgrok](https://github.com/pgrok/pgrok) <img align="bottom" height="13" src="https://badgen.net/github/stars/pgrok/pgrok?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/pgrok/pgrok?style=flat&label=" /> - 平替版 ngrok：基于 SSH 远程端口转发的多租户 HTTP/TCP 反向隧道方案。
-- [PendingDNS](https://github.com/folbricht/PendingDNS) <img align="bottom" height="13" src="https://badgen.net/github/stars/folbricht/PendingDNS?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/folbricht/PendingDNS?style=flat&label=" /> - 轻量级权威 DNS 服务器，可通过 API 修改设置。
+- [PendingDNS](https://github.com/postalsys/pending-dns) <img align="bottom" height="13" src="https://badgen.net/github/stars/postalsys/pending-dns?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/postalsys/pending-dns?style=flat&label=" /> - 轻量级权威 DNS 服务器，可通过 API 修改设置。
 
 ## 数据与流处理
 
