@@ -96,6 +96,7 @@
 - [LibreDB Studio](https://github.com/libredb/libredb-studio) <img align="bottom" height="13" src="https://badgen.net/github/stars/libredb/libredb-studio?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/libredb/libredb-studio?style=flat&label=" /> - 部署在数据库旁的 Web 数据库 IDE，支持 16 种数据库。
 - [TLSFlow](https://github.com/tlsflow/TLSFlow) <img align="bottom" height="13" src="https://badgen.net/github/stars/tlsflow/TLSFlow?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/tlsflow/TLSFlow?style=flat&label=" /> - 自动化管理 SSL/TLS 证书更新，支持验证与回滚。
 - [Dub](https://github.com/dubinc/dub) <img align="bottom" height="13" src="https://badgen.net/github/stars/dubinc/dub?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/dubinc/dub?style=flat&label=" /> - 开源的链接归因平台，支持短链接、转化跟踪和联盟计划。
+- [Syncthing](https://github.com/syncthing/syncthing) <img align="bottom" height="13" src="https://badgen.net/github/stars/syncthing/syncthing?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/syncthing/syncthing?style=flat&label=" /> - 多台电脑之间自动同步文件夹的工具，提供 Web 图形界面。
 
 ## 网络与代理
 
@@ -140,6 +141,8 @@
 - [CodeFever](https://github.com/PGYER/codefever) <img align="bottom" height="13" src="https://badgen.net/github/stars/PGYER/codefever?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/PGYER/codefever?style=flat&label=" /> - 开源自托管的 Git 代码托管服务程序。
 - [Appwrite](https://github.com/appwrite/appwrite) <img align="bottom" height="13" src="https://badgen.net/github/stars/appwrite/appwrite?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/appwrite/appwrite?style=flat&label=" /> - 自托管后端云平台，提供认证、数据库、存储、函数等服务。
 - [OneDev](https://github.com/theonedev/onedev) <img align="bottom" height="13" src="https://badgen.net/github/stars/theonedev/onedev?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/theonedev/onedev?style=flat&label=" /> - GitLab 替代品：自托管 DevOps 平台，支持 Git 托管、issue 追踪、PR 和持续集成。
+- [Verdaccio](https://github.com/verdaccio/verdaccio) <img align="bottom" height="13" src="https://badgen.net/github/stars/verdaccio/verdaccio?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/verdaccio/verdaccio?style=flat&label=" /> - 简单零配置的本地私有 npm 仓库，可用于包代理。
+- [code-server](https://github.com/coder/code-server) <img align="bottom" height="13" src="https://badgen.net/github/stars/coder/code-server?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/coder/code-server?style=flat&label=" /> - 在远程服务器上运行 VS Code，可通过浏览器访问。
 
 ## 媒体与娱乐
 
