@@ -125,6 +125,7 @@
 
 - [Phoenix](https://github.com/phcode-dev/phoenix) <img align="bottom" height="13" src="https://badgen.net/github/stars/phcode-dev/phoenix?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/phcode-dev/phoenix?style=flat&label=" /> - 基于 Brackets 打造的 Web 版代码编辑器，可当作线上 IDE 使用。
 - [CodeFever](https://github.com/PGYER/codefever) <img align="bottom" height="13" src="https://badgen.net/github/stars/PGYER/codefever?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/PGYER/codefever?style=flat&label=" /> - 开源自托管的 Git 代码托管服务程序。
+- [Appwrite](https://github.com/appwrite/appwrite) <img align="bottom" height="13" src="https://badgen.net/github/stars/appwrite/appwrite?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/appwrite/appwrite?style=flat&label=" /> - 自托管后端云平台，提供认证、数据库、存储、函数等服务。
 
 ## 媒体与娱乐
 
