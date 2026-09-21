@@ -144,6 +144,7 @@
 - [Verdaccio](https://github.com/verdaccio/verdaccio) <img align="bottom" height="13" src="https://badgen.net/github/stars/verdaccio/verdaccio?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/verdaccio/verdaccio?style=flat&label=" /> - 简单零配置的本地私有 npm 仓库，可用于包代理。
 - [code-server](https://github.com/coder/code-server) <img align="bottom" height="13" src="https://badgen.net/github/stars/coder/code-server?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/coder/code-server?style=flat&label=" /> - 在远程服务器上运行 VS Code，可通过浏览器访问。
 - [Drone](https://github.com/harness/drone) <img align="bottom" height="13" src="https://badgen.net/github/stars/harness/drone?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/harness/drone?style=flat&label=" /> - 基于 Docker 的容器化持续集成平台。
+- [Super Inspire](https://github.com/super-inspire/super-inspire-end) <img align="bottom" height="13" src="https://badgen.net/github/stars/super-inspire/super-inspire-end?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/super-inspire/super-inspire-end?style=flat&label=" /> - 用 Docker 启动 Linux 容器，并可通过浏览器直接访问该系统。
 
 ## 媒体与娱乐
 
