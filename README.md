@@ -123,6 +123,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 
 - [Odoo](https://github.com/odoo/odoo) <img align="bottom" height="13" src="https://badgen.net/github/stars/odoo/odoo?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/odoo/odoo?style=flat&label=" /> - Open-source business apps covering CRM, eCommerce, inventory, project management, and accounting.
 - [Chatwoot](https://github.com/chatwoot/chatwoot) <img align="bottom" height="13" src="https://badgen.net/github/stars/chatwoot/chatwoot?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/chatwoot/chatwoot?style=flat&label=" /> - An open-source live chat software, an alternative to Intercom, Zendesk and Crisp.
+- [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) <img align="bottom" height="13" src="https://badgen.net/github/stars/RocketChat/Rocket.Chat?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/RocketChat/Rocket.Chat?style=flat&label=" /> - A feature-rich team chat platform and one of the best open-source Slack alternatives.
 
 ## Development Tools
 
