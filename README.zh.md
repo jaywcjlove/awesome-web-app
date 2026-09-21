@@ -122,6 +122,7 @@
 
 - [Umbrel](https://github.com/getumbrel/umbrel) <img align="bottom" height="13" src="https://badgen.net/github/stars/getumbrel/umbrel?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/getumbrel/umbrel?style=flat&label=" /> - 优雅的家庭服务器操作系统，内置 300 多款自托管应用的应用商店。
 - [SFTPGo](https://github.com/drakkan/sftpgo) <img align="bottom" height="13" src="https://badgen.net/github/stars/drakkan/sftpgo?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/drakkan/sftpgo?style=flat&label=" /> - 功能齐全的 SFTP 服务器，可架设加密的 FTP 文件传输服务。
+- [KubeSphere](https://github.com/kubesphere/kubesphere) <img align="bottom" height="13" src="https://badgen.net/github/stars/kubesphere/kubesphere?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/kubesphere/kubesphere?style=flat&label=" /> - 基于 Kubernetes 的企业级多租户容器管理平台，提供易用的 Web 操作界面。
 
 ## 商业与办公
 

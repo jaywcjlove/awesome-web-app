@@ -123,6 +123,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 
 - [Umbrel](https://github.com/getumbrel/umbrel) <img align="bottom" height="13" src="https://badgen.net/github/stars/getumbrel/umbrel?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/getumbrel/umbrel?style=flat&label=" /> - An elegant home server OS with an app store of over 300 self-hosted apps.
 - [SFTPGo](https://github.com/drakkan/sftpgo) <img align="bottom" height="13" src="https://badgen.net/github/stars/drakkan/sftpgo?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/drakkan/sftpgo?style=flat&label=" /> - A full-featured SFTP server for setting up secure encrypted file transfer services.
+- [KubeSphere](https://github.com/kubesphere/kubesphere) <img align="bottom" height="13" src="https://badgen.net/github/stars/kubesphere/kubesphere?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/kubesphere/kubesphere?style=flat&label=" /> - An enterprise container management platform built on Kubernetes with an easy-to-use web console.
 
 ## Business & Office
 
