@@ -86,6 +86,7 @@
 - [服务器与自托管](#服务器与自托管)
 - [商业与办公](#商业与办公)
 - [开发工具](#开发工具)
+- [媒体与娱乐](#媒体与娱乐)
 
 <!--idoc:ignore:end-->
 
@@ -106,6 +107,7 @@
 ## 数据与流处理
 
 - [Memphis](https://github.com/memphisdev/memphis-broker) <img align="bottom" height="13" src="https://badgen.net/github/stars/memphisdev/memphis-broker?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/memphisdev/memphis-broker?style=flat&label=" /> - 开源的高可扩展实时数据流处理平台，让数据流处理变得轻松简单。
+- [NocoDB](https://github.com/nocodb/nocodb) <img align="bottom" height="13" src="https://badgen.net/github/stars/nocodb/nocodb?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/nocodb/nocodb?style=flat&label=" /> - 将 MySQL、PostgreSQL、SQLite 等数据库转换为智能电子表格。
 
 ## 文档与知识库
 
@@ -122,6 +124,11 @@
 ## 开发工具
 
 - [Phoenix](https://github.com/phcode-dev/phoenix) <img align="bottom" height="13" src="https://badgen.net/github/stars/phcode-dev/phoenix?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/phcode-dev/phoenix?style=flat&label=" /> - 基于 Brackets 打造的 Web 版代码编辑器，可当作线上 IDE 使用。
+- [CodeFever](https://github.com/PGYER/codefever) <img align="bottom" height="13" src="https://badgen.net/github/stars/PGYER/codefever?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/PGYER/codefever?style=flat&label=" /> - 开源自托管的 Git 代码托管服务程序。
+
+## 媒体与娱乐
+
+- [Jellyfin](https://github.com/jellyfin/jellyfin) <img align="bottom" height="13" src="https://badgen.net/github/stars/jellyfin/jellyfin?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/jellyfin/jellyfin?style=flat&label=" /> - 免费开源媒体系统，用于管理和流式传输你的媒体，可替代 Emby 和 Plex。
 
 ## 贡献者
 

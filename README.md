@@ -87,6 +87,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 - [Server & Self-Hosting](#server--self-hosting)
 - [Business & Office](#business--office)
 - [Development Tools](#development-tools)
+- [Media & Entertainment](#media--entertainment)
 
 <!--idoc:ignore:end-->
 
@@ -107,6 +108,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 ## Data & Streaming
 
 - [Memphis](https://github.com/memphisdev/memphis-broker) <img align="bottom" height="13" src="https://badgen.net/github/stars/memphisdev/memphis-broker?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/memphisdev/memphis-broker?style=flat&label=" /> - A highly scalable and effortless data streaming platform for real-time data processing.
+- [NocoDB](https://github.com/nocodb/nocodb) <img align="bottom" height="13" src="https://badgen.net/github/stars/nocodb/nocodb?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/nocodb/nocodb?style=flat&label=" /> - Turns MySQL, PostgreSQL, SQLite and other databases into a smart spreadsheet.
 
 ## Documentation & Wiki
 
@@ -123,6 +125,11 @@ Contributions are welcome via PR, and I will feature your app on my social media
 ## Development Tools
 
 - [Phoenix](https://github.com/phcode-dev/phoenix) <img align="bottom" height="13" src="https://badgen.net/github/stars/phcode-dev/phoenix?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/phcode-dev/phoenix?style=flat&label=" /> - A web-based code editor built on Brackets that can be used as an online IDE.
+- [CodeFever](https://github.com/PGYER/codefever) <img align="bottom" height="13" src="https://badgen.net/github/stars/PGYER/codefever?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/PGYER/codefever?style=flat&label=" /> - An open-source self-hosted Git code hosting service.
+
+## Media & Entertainment
+
+- [Jellyfin](https://github.com/jellyfin/jellyfin) <img align="bottom" height="13" src="https://badgen.net/github/stars/jellyfin/jellyfin?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/jellyfin/jellyfin?style=flat&label=" /> - A free media system to manage and stream your media, an alternative to Emby and Plex.
 
 ## Contributors
 
