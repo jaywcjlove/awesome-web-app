@@ -1,0 +1,20 @@
+name: 🎉 Addition to list
+description: Suggest an addition to this list.
+title: '🎉 Add <App Name>'
+labels: ['addition']
+assignees:
+  - jaywcjlove
+body:
+  - type: input
+    attributes:
+      label: 🪩 Provide a link to the proposed addition
+      description: Place link here.
+      placeholder: | 
+        https://github.com/jaywcjlove/awesome-web-app
+    validations:
+      required: true
+      
+  - type: textarea
+    attributes:
+      label: 📖 Additional context
+      description: Add any other context or screenshots about the feature request here.
