@@ -131,6 +131,7 @@
 - [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) <img align="bottom" height="13" src="https://badgen.net/github/stars/RocketChat/Rocket.Chat?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/RocketChat/Rocket.Chat?style=flat&label=" /> - 功能丰富的团队聊天平台，特性最多的 Slack 开源替代品之一。
 - [Chat](https://github.com/tinode/chat) <img align="bottom" height="13" src="https://badgen.net/github/stars/tinode/chat?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/tinode/chat?style=flat&label=" /> - 即时消息传递平台，提供 Web、iOS、Android 及命令行客户端。
 - [listmonk](https://github.com/knadh/listmonk) <img align="bottom" height="13" src="https://badgen.net/github/stars/knadh/listmonk?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/knadh/listmonk?style=flat&label=" /> - 自托管新闻邮件与邮件列表发送服务，带有管理后台。
+- [qtalk](https://github.com/qunarcorp/qtalk) <img align="bottom" height="13" src="https://badgen.net/github/stars/qunarcorp/qtalk?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/qunarcorp/qtalk?style=flat&label=" /> - 高性能企业级 IM 套件，适用于办公、客服及 IM 场景 SDK 嵌入。
 
 ## 开发工具
 
