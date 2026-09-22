@@ -154,6 +154,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 - [Navidrome](https://github.com/navidrome/navidrome) <img align="bottom" height="13" src="https://badgen.net/github/stars/navidrome/navidrome?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/navidrome/navidrome?style=flat&label=" /> - An open-source music streaming server with a web interface for managing your music.
 - [Pixelfed](https://github.com/pixelfed/pixelfed) <img align="bottom" height="13" src="https://badgen.net/github/stars/pixelfed/pixelfed?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/pixelfed/pixelfed?style=flat&label=" /> - A federated photo sharing service and an open-source Instagram alternative.
 - [jellyfin-rust](https://github.com/dydydd/jellyfin-rust) <img align="bottom" height="13" src="https://badgen.net/github/stars/dydydd/jellyfin-rust?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/dydydd/jellyfin-rust?style=flat&label=" /> - A reimplementation of the Jellyfin server compatible with Jellyfin and Emby clients.
+- [RA2 VM](https://github.com/ra2-games/ra2) <img align="bottom" height="13" src="https://badgen.net/github/stars/ra2-games/ra2?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/ra2-games/ra2?style=flat&label=" /> - Run the original Red Alert 2 and Yuri's Revenge directly in your browser.
 
 ## Design & Creativity
 
