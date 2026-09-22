@@ -88,6 +88,7 @@
 - [开发工具](#开发工具)
 - [媒体与娱乐](#媒体与娱乐)
 - [设计与创意](#设计与创意)
+- [金融与支付](#金融与支付)
 
 <!--idoc:ignore:end-->
 
@@ -158,6 +159,10 @@
 ## 设计与创意
 
 - [Penpot](https://github.com/penpot/penpot) <img align="bottom" height="13" src="https://badgen.net/github/stars/penpot/penpot?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/penpot/penpot?style=flat&label=" /> - 面向产品团队的开源设计与原型协作平台。
+
+## 金融与支付
+
+- [Monero Web Wallet](https://github.com/AMLChecker/monero-web-wallet) <img align="bottom" height="13" src="https://badgen.net/github/stars/AMLChecker/monero-web-wallet?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/AMLChecker/monero-web-wallet?style=flat&label=" /> - 自托管的 Monero 网页钱包，无需第三方服务器、不收集遥测数据。
 
 ## 贡献者
 

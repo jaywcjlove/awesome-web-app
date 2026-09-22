@@ -89,6 +89,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 - [Development Tools](#development-tools)
 - [Media & Entertainment](#media--entertainment)
 - [Design & Creativity](#design--creativity)
+- [Finance & Payments](#finance--payments)
 
 <!--idoc:ignore:end-->
 
@@ -159,6 +160,10 @@ Contributions are welcome via PR, and I will feature your app on my social media
 ## Design & Creativity
 
 - [Penpot](https://github.com/penpot/penpot) <img align="bottom" height="13" src="https://badgen.net/github/stars/penpot/penpot?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/penpot/penpot?style=flat&label=" /> - The open-source design and prototyping platform for product teams.
+
+## Finance & Payments
+
+- [Monero Web Wallet](https://github.com/AMLChecker/monero-web-wallet) <img align="bottom" height="13" src="https://badgen.net/github/stars/AMLChecker/monero-web-wallet?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/AMLChecker/monero-web-wallet?style=flat&label=" /> - A self-hosted Monero web wallet with no third-party servers and no telemetry.
 
 ## Contributors
 
