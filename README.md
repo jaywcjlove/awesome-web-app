@@ -136,6 +136,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 - [Chat](https://github.com/tinode/chat) <img align="bottom" height="13" src="https://badgen.net/github/stars/tinode/chat?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/tinode/chat?style=flat&label=" /> - An instant messaging platform with web, iOS, Android and command-line clients.
 - [listmonk](https://github.com/knadh/listmonk) <img align="bottom" height="13" src="https://badgen.net/github/stars/knadh/listmonk?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/knadh/listmonk?style=flat&label=" /> - A self-hosted newsletter and mailing list manager with a web admin panel.
 - [EdenText](https://github.com/stffnb/edentext) <img align="bottom" height="13" src="https://badgen.net/github/stars/stffnb/edentext?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/stffnb/edentext?style=flat&label=" /> - A local, privacy-first web word processor for docx and odt files, no account needed.
+- [ResumeForge](https://github.com/magicapple123/ResumeForge) <img align="bottom" height="13" src="https://badgen.net/github/stars/magicapple123/ResumeForge?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/magicapple123/ResumeForge?style=flat&label=" /> - A local-first AI resume builder, job tracker and interview prep workspace.
 
 ## Development Tools
 
