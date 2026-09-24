@@ -155,6 +155,7 @@
 - [Pixelfed](https://github.com/pixelfed/pixelfed) <img align="bottom" height="13" src="https://badgen.net/github/stars/pixelfed/pixelfed?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/pixelfed/pixelfed?style=flat&label=" /> - 联邦式照片分享服务，Instagram 的开源替代品，可与其他平台互通。
 - [jellyfin-rust](https://github.com/dydydd/jellyfin-rust) <img align="bottom" height="13" src="https://badgen.net/github/stars/dydydd/jellyfin-rust?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/dydydd/jellyfin-rust?style=flat&label=" /> - Jellyfin 服务端的重新实现，兼容 Jellyfin 与 Emby 客户端。
 - [RA2 VM](https://github.com/ra2-games/ra2) <img align="bottom" height="13" src="https://badgen.net/github/stars/ra2-games/ra2?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/ra2-games/ra2?style=flat&label=" /> - 浏览器直接运行的《红色警戒2》与《尤里的复仇》原版网页游戏，支持多人联机。
+- [Video Transcript](https://github.com/anghunk/video-transcript) <img align="bottom" height="13" src="https://badgen.net/github/stars/anghunk/video-transcript?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/anghunk/video-transcript?style=flat&label=" /> - 浏览器中完成视频字幕编辑与烧录，全程本地处理，支持本地自动识别生成字幕。
 
 ## 设计与创意
 
