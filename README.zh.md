@@ -72,7 +72,7 @@
 [![Awesome Mac](https://jaywcjlove.github.io/sb/ico/awesome.svg)](https://github.com/jaywcjlove/awesome-mac)
 [![english](https://jaywcjlove.github.io/sb/lang/english.svg)](README.md)
 
-本列表收集使用 `Web` 技术构建的开源应用和工具，涵盖跨平台桌面应用及其他实用项目。
+本列表精选各类使用 `Web` 技术开发的开源 Web 服务端应用与工具
 
 欢迎通过 PR 提交你的开源项目，我会在我的社交媒体账号 ([𝕏](https://x.com/jaywcjlove)) 上推荐你的应用。
 

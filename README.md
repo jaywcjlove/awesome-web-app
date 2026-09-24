@@ -73,7 +73,7 @@ Awesome Open-Source Web Apps
 [![Awesome Mac](https://jaywcjlove.github.io/sb/ico/awesome.svg)](https://github.com/jaywcjlove/awesome-mac)
 [![中文](https://jaywcjlove.github.io/sb/lang/chinese.svg)](README.zh.md)
 
-This list curates open-source applications and tools built with `Web`, including cross-platform desktop apps and other useful projects.
+A curated list of open-source web server applications and tools built with web technologies.
 
 Contributions are welcome via PR, and I will feature your app on my social media account ([𝕏](https://x.com/jaywcjlove)).
 
