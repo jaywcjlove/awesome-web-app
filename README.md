@@ -149,6 +149,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 - [code-server](https://github.com/coder/code-server) <img align="bottom" height="13" src="https://badgen.net/github/stars/coder/code-server?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/coder/code-server?style=flat&label=" /> - Runs VS Code on a remote server, accessible from your browser.
 - [Drone](https://github.com/harness/drone) <img align="bottom" height="13" src="https://badgen.net/github/stars/harness/drone?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/harness/drone?style=flat&label=" /> - A container-native continuous integration platform built on Docker.
 - [Super Inspire](https://github.com/super-inspire/super-inspire-end) <img align="bottom" height="13" src="https://badgen.net/github/stars/super-inspire/super-inspire-end?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/super-inspire/super-inspire-end?style=flat&label=" /> - Run a Linux container via Docker and access it from your browser.
+- [tapflow](https://github.com/jo-duchan/tapflow) <img align="bottom" height="13" src="https://badgen.net/github/stars/jo-duchan/tapflow?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/jo-duchan/tapflow?style=flat&label=" /> - Run iOS simulators and Android emulators in your browser, a self-hosted Appetize alternative.
 
 ## Media & Entertainment
 
