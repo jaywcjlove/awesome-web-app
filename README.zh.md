@@ -127,6 +127,7 @@
 - [SFTPGo](https://github.com/drakkan/sftpgo) <img align="bottom" height="13" src="https://badgen.net/github/stars/drakkan/sftpgo?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/drakkan/sftpgo?style=flat&label=" /> - 功能齐全的 SFTP 服务器，可架设加密的 FTP 文件传输服务。
 - [KubeSphere](https://github.com/kubesphere/kubesphere) <img align="bottom" height="13" src="https://badgen.net/github/stars/kubesphere/kubesphere?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/kubesphere/kubesphere?style=flat&label=" /> - 基于 Kubernetes 的企业级多租户容器管理平台，提供易用的 Web 操作界面。
 - [Peekd](https://github.com/jiacai2050/peekd) <img align="bottom" height="13" src="https://badgen.net/github/stars/jiacai2050/peekd?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/jiacai2050/peekd?style=flat&label=" /> - 轻量级单二进制 Web 文件服务器，用于快速浏览和共享本地文件，支持丰富格式预览。
+- [Fogshare](https://github.com/fogshare/fogshare) <img align="bottom" height="13" src="https://badgen.net/github/stars/fogshare/fogshare?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/fogshare/fogshare?style=flat&label=" /> - 极简自托管文件分享与静态站点托管工具，支持短链接及访问控制。
 
 ## 商业与办公
 
