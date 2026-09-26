@@ -150,6 +150,7 @@
 - [Drone](https://github.com/harness/drone) <img align="bottom" height="13" src="https://badgen.net/github/stars/harness/drone?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/harness/drone?style=flat&label=" /> - 基于 Docker 的容器化持续集成平台。
 - [Super Inspire](https://github.com/super-inspire/super-inspire-end) <img align="bottom" height="13" src="https://badgen.net/github/stars/super-inspire/super-inspire-end?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/super-inspire/super-inspire-end?style=flat&label=" /> - 用 Docker 启动 Linux 容器，并可通过浏览器直接访问该系统。
 - [tapflow](https://github.com/jo-duchan/tapflow) <img align="bottom" height="13" src="https://badgen.net/github/stars/jo-duchan/tapflow?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/jo-duchan/tapflow?style=flat&label=" /> - 在浏览器中运行 iOS 模拟器与 Android 模拟器，自托管的 Appetize 替代品。
+- [PinAtlas](https://github.com/Lab0x-Embedded/pinatlas) <img align="bottom" height="13" src="https://badgen.net/github/stars/Lab0x-Embedded/pinatlas?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Lab0x-Embedded/pinatlas?style=flat&label=" /> - 通用芯片引脚查询与可视化工具，输入型号即可查看封装引脚图与复用功能。
 
 ## 媒体与娱乐
 
