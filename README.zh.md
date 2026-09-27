@@ -89,6 +89,7 @@
 - [媒体与娱乐](#媒体与娱乐)
 - [设计与创意](#设计与创意)
 - [金融与支付](#金融与支付)
+- [AI 与智能体](#ai-与智能体)
 
 <!--idoc:ignore:end-->
 
@@ -169,6 +170,10 @@
 ## 金融与支付
 
 - [Monero Web Wallet](https://github.com/AMLChecker/monero-web-wallet) <img align="bottom" height="13" src="https://badgen.net/github/stars/AMLChecker/monero-web-wallet?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/AMLChecker/monero-web-wallet?style=flat&label=" /> - 自托管的 Monero 网页钱包，无需第三方服务器、不收集遥测数据。
+
+## AI 与智能体
+
+- [Paperclip](https://github.com/paperclipai/paperclip) <img align="bottom" height="13" src="https://badgen.net/github/stars/paperclipai/paperclip?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/paperclipai/paperclip?style=flat&label=" /> - 开源的 AI 智能体团队编排平台，可在统一看板分配目标并跟踪工作与成本。
 
 ## 贡献者
 

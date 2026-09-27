@@ -90,6 +90,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 - [Media & Entertainment](#media--entertainment)
 - [Design & Creativity](#design--creativity)
 - [Finance & Payments](#finance--payments)
+- [AI & Agents](#ai--agents)
 
 <!--idoc:ignore:end-->
 
@@ -170,6 +171,10 @@ Contributions are welcome via PR, and I will feature your app on my social media
 ## Finance & Payments
 
 - [Monero Web Wallet](https://github.com/AMLChecker/monero-web-wallet) <img align="bottom" height="13" src="https://badgen.net/github/stars/AMLChecker/monero-web-wallet?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/AMLChecker/monero-web-wallet?style=flat&label=" /> - A self-hosted Monero web wallet with no third-party servers and no telemetry.
+
+## AI & Agents
+
+- [Paperclip](https://github.com/paperclipai/paperclip) <img align="bottom" height="13" src="https://badgen.net/github/stars/paperclipai/paperclip?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/paperclipai/paperclip?style=flat&label=" /> - Open-source orchestration for teams of AI agents to run a business from one dashboard.
 
 ## Contributors
 
