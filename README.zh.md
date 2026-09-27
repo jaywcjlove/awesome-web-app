@@ -174,6 +174,7 @@
 ## AI 与智能体
 
 - [Paperclip](https://github.com/paperclipai/paperclip) <img align="bottom" height="13" src="https://badgen.net/github/stars/paperclipai/paperclip?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/paperclipai/paperclip?style=flat&label=" /> - 开源的 AI 智能体团队编排平台，可在统一看板分配目标并跟踪工作与成本。
+- [OpenMuse](https://github.com/CopilotKit/OpenMuse) <img align="bottom" height="13" src="https://badgen.net/github/stars/CopilotKit/OpenMuse?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/CopilotKit/OpenMuse?style=flat&label=" /> - 个人 AI 智能体，可操作浏览器、终端与文件，持续工作直到完成任务。
 
 ## 贡献者
 
