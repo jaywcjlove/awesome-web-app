@@ -82,6 +82,7 @@
 - [工具与实用程序](#工具与实用程序)
 - [网络与代理](#网络与代理)
 - [数据与流处理](#数据与流处理)
+- [监控与分析](#监控与分析)
 - [文档与知识库](#文档与知识库)
 - [服务器与自托管](#服务器与自托管)
 - [商业与办公](#商业与办公)
@@ -117,6 +118,10 @@
 - [Zinc](https://github.com/prabhatsharma/zinc) <img align="bottom" height="13" src="https://badgen.net/github/stars/prabhatsharma/zinc?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/prabhatsharma/zinc?style=flat&label=" /> - 轻量级全文搜索引擎，Elasticsearch 替代品，自带 Web 管理界面。
 - [Plausible](https://github.com/plausible/analytics) <img align="bottom" height="13" src="https://badgen.net/github/stars/plausible/analytics?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/plausible/analytics?style=flat&label=" /> - 轻量级自托管网站访问统计分析，Google Analytics 开源替代品。
 - [Sonic](https://github.com/valeriansaliou/sonic) <img align="bottom" height="13" src="https://badgen.net/github/stars/valeriansaliou/sonic?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/valeriansaliou/sonic?style=flat&label=" /> - 快速轻量的搜索后端服务，可用作 Elasticsearch 替代品。
+
+## 监控与分析
+
+- [π RuView](https://github.com/ruvnet/ruview) <img align="bottom" height="13" src="https://badgen.net/github/stars/ruvnet/ruview?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/ruvnet/ruview?style=flat&label=" /> - 利用 WiFi 信号进行实时生命体征监测与人员存在检测。
 
 ## 文档与知识库
 

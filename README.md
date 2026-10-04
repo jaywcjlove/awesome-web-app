@@ -83,6 +83,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 - [Tools & Utilities](#tools--utilities)
 - [Networking & Proxy](#networking--proxy)
 - [Data & Streaming](#data--streaming)
+- [Monitoring & Analytics](#monitoring--analytics)
 - [Documentation & Wiki](#documentation--wiki)
 - [Server & Self-Hosting](#server--self-hosting)
 - [Business & Office](#business--office)
@@ -118,6 +119,10 @@ Contributions are welcome via PR, and I will feature your app on my social media
 - [Zinc](https://github.com/prabhatsharma/zinc) <img align="bottom" height="13" src="https://badgen.net/github/stars/prabhatsharma/zinc?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/prabhatsharma/zinc?style=flat&label=" /> - A lightweight full-text search engine and Elasticsearch alternative with a web UI.
 - [Plausible](https://github.com/plausible/analytics) <img align="bottom" height="13" src="https://badgen.net/github/stars/plausible/analytics?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/plausible/analytics?style=flat&label=" /> - A lightweight, self-hosted web analytics and an open-source Google Analytics alternative.
 - [Sonic](https://github.com/valeriansaliou/sonic) <img align="bottom" height="13" src="https://badgen.net/github/stars/valeriansaliou/sonic?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/valeriansaliou/sonic?style=flat&label=" /> - A fast, lightweight search backend that can serve as an Elasticsearch alternative.
+
+## Monitoring & Analytics
+
+- [π RuView](https://github.com/ruvnet/ruview) <img align="bottom" height="13" src="https://badgen.net/github/stars/ruvnet/ruview?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/ruvnet/ruview?style=flat&label=" /> - Real-time vital sign and presence monitoring using WiFi signals.
 
 ## Documentation & Wiki
 
