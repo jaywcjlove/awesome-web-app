@@ -95,7 +95,6 @@
 
 ## 工具与实用程序
 
-- [LibreDB Studio](https://github.com/libredb/libredb-studio) <img align="bottom" height="13" src="https://badgen.net/github/stars/libredb/libredb-studio?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/libredb/libredb-studio?style=flat&label=" /> - 部署在数据库旁的 Web 数据库 IDE，支持 16 种数据库。
 - [TLSFlow](https://github.com/tlsflow/TLSFlow) <img align="bottom" height="13" src="https://badgen.net/github/stars/tlsflow/TLSFlow?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/tlsflow/TLSFlow?style=flat&label=" /> - 自动化管理 SSL/TLS 证书更新，支持验证与回滚。
 - [Dub](https://github.com/dubinc/dub) <img align="bottom" height="13" src="https://badgen.net/github/stars/dubinc/dub?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/dubinc/dub?style=flat&label=" /> - 开源的链接归因平台，支持短链接、转化跟踪和联盟计划。
 - [Syncthing](https://github.com/syncthing/syncthing) <img align="bottom" height="13" src="https://badgen.net/github/stars/syncthing/syncthing?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/syncthing/syncthing?style=flat&label=" /> - 多台电脑之间自动同步文件夹的工具，提供 Web 图形界面。
@@ -111,6 +110,8 @@
 
 ## 数据与流处理
 
+- [Duckle](https://github.com/slothflowlabs/duckle) <img align="bottom" height="13" src="https://badgen.net/github/stars/slothflowlabs/duckle?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/slothflowlabs/duckle?style=flat&label=" /> - 可自托管的 ETL 平台，用于构建和运行数据管道。
+- [LibreDB Studio](https://github.com/libredb/libredb-studio) <img align="bottom" height="13" src="https://badgen.net/github/stars/libredb/libredb-studio?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/libredb/libredb-studio?style=flat&label=" /> - 部署在数据库旁的 Web 数据库 IDE，支持 16 种数据库。
 - [Memphis](https://github.com/memphisdev/memphis-broker) <img align="bottom" height="13" src="https://badgen.net/github/stars/memphisdev/memphis-broker?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/memphisdev/memphis-broker?style=flat&label=" /> - 开源的高可扩展实时数据流处理平台，让数据流处理变得轻松简单。
 - [NocoDB](https://github.com/nocodb/nocodb) <img align="bottom" height="13" src="https://badgen.net/github/stars/nocodb/nocodb?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/nocodb/nocodb?style=flat&label=" /> - 将 MySQL、PostgreSQL、SQLite 等数据库转换为智能电子表格。
 - [Zinc](https://github.com/prabhatsharma/zinc) <img align="bottom" height="13" src="https://badgen.net/github/stars/prabhatsharma/zinc?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/prabhatsharma/zinc?style=flat&label=" /> - 轻量级全文搜索引擎，Elasticsearch 替代品，自带 Web 管理界面。
