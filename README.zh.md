@@ -139,6 +139,7 @@
 - [Fogshare](https://github.com/fogshare/fogshare) <img align="bottom" height="13" src="https://badgen.net/github/stars/fogshare/fogshare?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/fogshare/fogshare?style=flat&label=" /> - 极简自托管文件分享与静态站点托管工具，支持短链接及访问控制。
 - [Glance](https://github.com/glanceapp/glance) <img align="bottom" height="13" src="https://badgen.net/github/stars/glanceapp/glance?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/glanceapp/glance?style=flat&label=" /> - 轻量且可定制的信息流仪表盘。
 - [Burrow](https://github.com/ArkGravity/burrow) <img align="bottom" height="13" src="https://badgen.net/github/stars/ArkGravity/burrow?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/ArkGravity/burrow?style=flat&label=" /> - 面向小团队的轻量级自托管 OIDC 身份提供商，支持 TOTP 双重验证、角色权限与单点登录。
+- [Tinyauth](https://github.com/tinyauthapp/tinyauth) <img align="bottom" height="13" src="https://badgen.net/github/stars/tinyauthapp/tinyauth?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/tinyauthapp/tinyauth?style=flat&label=" /> - 轻量级 OpenID Connect 身份认证服务，可为自托管应用提供安全登录。
 
 ## 商业与办公
 
