@@ -141,6 +141,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 - [Glance](https://github.com/glanceapp/glance) <img align="bottom" height="13" src="https://badgen.net/github/stars/glanceapp/glance?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/glanceapp/glance?style=flat&label=" /> - A lightweight, customizable dashboard for viewing feeds.
 - [Burrow](https://github.com/ArkGravity/burrow) <img align="bottom" height="13" src="https://badgen.net/github/stars/ArkGravity/burrow?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/ArkGravity/burrow?style=flat&label=" /> - A lightweight, self-hosted OIDC identity provider for small teams with TOTP, RBAC, and SSO.
 - [Tinyauth](https://github.com/tinyauthapp/tinyauth) <img align="bottom" height="13" src="https://badgen.net/github/stars/tinyauthapp/tinyauth?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/tinyauthapp/tinyauth?style=flat&label=" /> - A lightweight OpenID Connect authentication server for securing self-hosted apps.
+- [EdgeSSH](https://github.com/aozorae/EdgeSSH) <img align="bottom" height="13" src="https://badgen.net/github/stars/aozorae/EdgeSSH?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/aozorae/EdgeSSH?style=flat&label=" /> - A self-hosted SSH workspace for managing hosts, terminals, files, monitoring, and remote access.
 
 ## Business & Office
 
