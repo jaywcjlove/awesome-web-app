@@ -146,6 +146,7 @@
 ## 商业与办公
 
 - [Odoo](https://github.com/odoo/odoo) <img align="bottom" height="13" src="https://badgen.net/github/stars/odoo/odoo?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/odoo/odoo?style=flat&label=" /> - 开源商业应用套件，涵盖 CRM、电商、库存、项目管理和会计等。
+- [Keygate](https://github.com/tabloy/keygate) <img align="bottom" height="13" src="https://badgen.net/github/stars/tabloy/keygate?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/tabloy/keygate?style=flat&label=" /> - 自托管的软件授权管理平台，支持订阅、试用、浮动授权和用量计费。
 - [Y-Link](https://github.com/HF-CYGG/Y-Link) <img align="bottom" height="13" src="https://badgen.net/github/stars/HF-CYGG/Y-Link?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/HF-CYGG/Y-Link?style=flat&label=" /> - 面向文创、门店与活动场景的库存管理系统，覆盖预订、核销、出入库及反馈。
 - [Chatwoot](https://github.com/chatwoot/chatwoot) <img align="bottom" height="13" src="https://badgen.net/github/stars/chatwoot/chatwoot?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/chatwoot/chatwoot?style=flat&label=" /> - 开源实时客服聊天软件，可替代 Intercom、Zendesk、Crisp 等。
 - [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) <img align="bottom" height="13" src="https://badgen.net/github/stars/RocketChat/Rocket.Chat?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/RocketChat/Rocket.Chat?style=flat&label=" /> - 功能丰富的团队聊天平台，特性最多的 Slack 开源替代品之一。
