@@ -189,6 +189,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 
 ## AI & Agents
 
+- [Tale](https://github.com/tale-project/tale) <img align="bottom" height="13" src="https://badgen.net/github/stars/tale-project/tale?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/tale-project/tale?style=flat&label=" /> - Self-hosted project workspace where people and AI agents share tasks, files, knowledge, and reviewed outputs.
 - [Paperclip](https://github.com/paperclipai/paperclip) <img align="bottom" height="13" src="https://badgen.net/github/stars/paperclipai/paperclip?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/paperclipai/paperclip?style=flat&label=" /> - Open-source orchestration for teams of AI agents to run a business from one dashboard.
 - [OpenMuse](https://github.com/CopilotKit/OpenMuse) <img align="bottom" height="13" src="https://badgen.net/github/stars/CopilotKit/OpenMuse?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/CopilotKit/OpenMuse?style=flat&label=" /> - A personal AI agent with a browser, terminal and files that keeps working on your outcome.
 
