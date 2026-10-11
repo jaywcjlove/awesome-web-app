@@ -184,6 +184,7 @@
 
 ## 金融与支付
 
+- [Paymenter](https://github.com/paymenter/paymenter) <img align="bottom" height="13" src="https://badgen.net/github/stars/paymenter/paymenter?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/paymenter/paymenter?style=flat&label=" /> - 面向主机服务商的开源账单平台，可管理订阅和付款。
 - [Monero Web Wallet](https://github.com/AMLChecker/monero-web-wallet) <img align="bottom" height="13" src="https://badgen.net/github/stars/AMLChecker/monero-web-wallet?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/AMLChecker/monero-web-wallet?style=flat&label=" /> - 自托管的 Monero 网页钱包，无需第三方服务器、不收集遥测数据。
 
 ## AI 与智能体
