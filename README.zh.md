@@ -146,6 +146,7 @@
 ## 商业与办公
 
 - [Odoo](https://github.com/odoo/odoo) <img align="bottom" height="13" src="https://badgen.net/github/stars/odoo/odoo?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/odoo/odoo?style=flat&label=" /> - 开源商业应用套件，涵盖 CRM、电商、库存、项目管理和会计等。
+- [Tale](https://github.com/tale-project/tale) <img align="bottom" height="13" src="https://badgen.net/github/stars/tale-project/tale?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/tale-project/tale?style=flat&label=" /> - 面向团队与 AI 智能体的开源协作工作区，用于分配任务、协调工作并共同审查成果。
 - [Keygate](https://github.com/tabloy/keygate) <img align="bottom" height="13" src="https://badgen.net/github/stars/tabloy/keygate?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/tabloy/keygate?style=flat&label=" /> - 自托管的软件授权管理平台，支持订阅、试用、浮动授权和用量计费。
 - [Y-Link](https://github.com/HF-CYGG/Y-Link) <img align="bottom" height="13" src="https://badgen.net/github/stars/HF-CYGG/Y-Link?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/HF-CYGG/Y-Link?style=flat&label=" /> - 面向文创、门店与活动场景的库存管理系统，覆盖预订、核销、出入库及反馈。
 - [Chatwoot](https://github.com/chatwoot/chatwoot) <img align="bottom" height="13" src="https://badgen.net/github/stars/chatwoot/chatwoot?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/chatwoot/chatwoot?style=flat&label=" /> - 开源实时客服聊天软件，可替代 Intercom、Zendesk、Crisp 等。
