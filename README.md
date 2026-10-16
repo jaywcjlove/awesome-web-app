@@ -189,6 +189,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 
 ## Finance & Payments
 
+- [CNEquity](https://github.com/rootSunc/CNEquity) <img align="bottom" height="13" src="https://badgen.net/github/stars/rootSunc/CNEquity?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/rootSunc/CNEquity?style=flat&label=" /> - A local data lake for Chinese market financial data collection, auditing, and querying.
 - [Paymenter](https://github.com/paymenter/paymenter) <img align="bottom" height="13" src="https://badgen.net/github/stars/paymenter/paymenter?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/paymenter/paymenter?style=flat&label=" /> - An open-source billing platform for hosting businesses to manage subscriptions and payments.
 - [Monero Web Wallet](https://github.com/AMLChecker/monero-web-wallet) <img align="bottom" height="13" src="https://badgen.net/github/stars/AMLChecker/monero-web-wallet?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/AMLChecker/monero-web-wallet?style=flat&label=" /> - A self-hosted Monero web wallet with no third-party servers and no telemetry.
 
