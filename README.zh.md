@@ -194,6 +194,7 @@
 
 ## AI 与智能体
 
+- [Weft](https://github.com/jonesphillip/weft) <img align="bottom" height="13" src="https://badgen.net/github/stars/jonesphillip/weft?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/jonesphillip/weft?style=flat&label=" /> - 自托管的 AI 任务管理应用，由智能体代你执行任务。
 - [Agent Muster](https://github.com/sexyAmole/agent-muster) <img align="bottom" height="13" src="https://badgen.net/github/stars/sexyAmole/agent-muster?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/sexyAmole/agent-muster?style=flat&label=" /> - 在浏览器中管理本地 AI 编码智能体、项目与对话，支持通过钉钉或飞书机器人收发任务。
 - [Tale](https://github.com/tale-project/tale) <img align="bottom" height="13" src="https://badgen.net/github/stars/tale-project/tale?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/tale-project/tale?style=flat&label=" /> - 自托管的项目工作空间，让团队成员与 AI 智能体共享任务、文件和知识，并审查工作成果。
 - [Paperclip](https://github.com/paperclipai/paperclip) <img align="bottom" height="13" src="https://badgen.net/github/stars/paperclipai/paperclip?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/paperclipai/paperclip?style=flat&label=" /> - 开源的 AI 智能体团队编排平台，可在统一看板分配目标并跟踪工作与成本。
