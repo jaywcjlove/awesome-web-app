@@ -109,6 +109,7 @@
 - [Chisel](https://github.com/jpillora/chisel) <img align="bottom" height="13" src="https://badgen.net/github/stars/jpillora/chisel?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/jpillora/chisel?style=flat&label=" /> - 基于 HTTP 传输、SSH 加密的快速 TCP/UDP 隧道工具，常用于穿透防火墙。
 - [pgrok](https://github.com/pgrok/pgrok) <img align="bottom" height="13" src="https://badgen.net/github/stars/pgrok/pgrok?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/pgrok/pgrok?style=flat&label=" /> - 平替版 ngrok：基于 SSH 远程端口转发的多租户 HTTP/TCP 反向隧道方案。
 - [PendingDNS](https://github.com/postalsys/pending-dns) <img align="bottom" height="13" src="https://badgen.net/github/stars/postalsys/pending-dns?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/postalsys/pending-dns?style=flat&label=" /> - 轻量级权威 DNS 服务器，可通过 API 修改设置。
+- [Gately](https://github.com/wangwanjie/gately) <img align="bottom" height="13" src="https://badgen.net/github/stars/wangwanjie/gately?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/wangwanjie/gately?style=flat&label=" /> - 开源网络网关，集成 DDNS、内网穿透、端口转发、反向代理、证书与 WAF。
 
 ## 数据与流处理
 

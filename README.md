@@ -110,6 +110,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 - [Chisel](https://github.com/jpillora/chisel) <img align="bottom" height="13" src="https://badgen.net/github/stars/jpillora/chisel?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/jpillora/chisel?style=flat&label=" /> - A fast TCP/UDP tunnel over HTTP secured via SSH, useful for passing through firewalls.
 - [pgrok](https://github.com/pgrok/pgrok) <img align="bottom" height="13" src="https://badgen.net/github/stars/pgrok/pgrok?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/pgrok/pgrok?style=flat&label=" /> - A poor man's ngrok: multi-tenant HTTP/TCP reverse tunnel solution via SSH port forwarding.
 - [PendingDNS](https://github.com/postalsys/pending-dns) <img align="bottom" height="13" src="https://badgen.net/github/stars/postalsys/pending-dns?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/postalsys/pending-dns?style=flat&label=" /> - A lightweight authoritative DNS server with API-driven configuration.
+- [Gately](https://github.com/wangwanjie/gately) <img align="bottom" height="13" src="https://badgen.net/github/stars/wangwanjie/gately?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/wangwanjie/gately?style=flat&label=" /> - An open-source gateway for DDNS, tunneling, port forwarding, reverse proxy, certificates, and WAF.
 
 ## Data & Streaming
 
