@@ -99,6 +99,7 @@
 - [TLSFlow](https://github.com/tlsflow/TLSFlow) <img align="bottom" height="13" src="https://badgen.net/github/stars/tlsflow/TLSFlow?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/tlsflow/TLSFlow?style=flat&label=" /> - 自动化管理 SSL/TLS 证书更新，支持验证与回滚。
 - [Dub](https://github.com/dubinc/dub) <img align="bottom" height="13" src="https://badgen.net/github/stars/dubinc/dub?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/dubinc/dub?style=flat&label=" /> - 开源的链接归因平台，支持短链接、转化跟踪和联盟计划。
 - [Syncthing](https://github.com/syncthing/syncthing) <img align="bottom" height="13" src="https://badgen.net/github/stars/syncthing/syncthing?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/syncthing/syncthing?style=flat&label=" /> - 多台电脑之间自动同步文件夹的工具，提供 Web 图形界面。
+- [SpaceMap](https://github.com/renkagod/spacemap) <img align="bottom" height="13" src="https://badgen.net/github/stars/renkagod/spacemap?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/renkagod/spacemap?style=flat&label=" /> - 将 Mac 磁盘空间使用情况呈现为可漫游的交互式地图。
 
 ## 网络与代理
 
