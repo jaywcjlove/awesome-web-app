@@ -120,6 +120,7 @@
 - [Zinc](https://github.com/prabhatsharma/zinc) <img align="bottom" height="13" src="https://badgen.net/github/stars/prabhatsharma/zinc?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/prabhatsharma/zinc?style=flat&label=" /> - 轻量级全文搜索引擎，Elasticsearch 替代品，自带 Web 管理界面。
 - [Plausible](https://github.com/plausible/analytics) <img align="bottom" height="13" src="https://badgen.net/github/stars/plausible/analytics?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/plausible/analytics?style=flat&label=" /> - 轻量级自托管网站访问统计分析，Google Analytics 开源替代品。
 - [Sonic](https://github.com/valeriansaliou/sonic) <img align="bottom" height="13" src="https://badgen.net/github/stars/valeriansaliou/sonic?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/valeriansaliou/sonic?style=flat&label=" /> - 快速轻量的搜索后端服务，可用作 Elasticsearch 替代品。
+- [Tiny RDM](https://github.com/tiny-craft/tiny-rdm) <img align="bottom" height="13" src="https://badgen.net/github/stars/tiny-craft/tiny-rdm?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/tiny-craft/tiny-rdm?style=flat&label=" /> - 轻量级 Redis 图形客户端，支持桌面端和可部署的 Web 版本。
 
 ## 监控与分析
 
