@@ -152,6 +152,7 @@
 ## 商业与办公
 
 - [Odoo](https://github.com/odoo/odoo) <img align="bottom" height="13" src="https://badgen.net/github/stars/odoo/odoo?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/odoo/odoo?style=flat&label=" /> - 开源商业应用套件，涵盖 CRM、电商、库存、项目管理和会计等。
+- [FactoryFlow](https://github.com/Doublzzz/FactoryFlow) <img align="bottom" height="13" src="https://badgen.net/github/stars/Doublzzz/FactoryFlow?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Doublzzz/FactoryFlow?style=flat&label=" /> - 为小工厂管理订单、送货与对账的本地优先工具。
 - [人天神话 (MythManDay)](https://github.com/ljl8086/mythmanday) <img align="bottom" height="13" src="https://badgen.net/github/stars/ljl8086/mythmanday?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/ljl8086/mythmanday?style=flat&label=" /> - 本地优先的工时与合同结算平台，可将工作成果和会议记录转化为可核算人天。
 - [Tale](https://github.com/tale-project/tale) <img align="bottom" height="13" src="https://badgen.net/github/stars/tale-project/tale?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/tale-project/tale?style=flat&label=" /> - 面向团队与 AI 智能体的开源协作工作区，用于分配任务、协调工作并共同审查成果。
 - [Keygate](https://github.com/tabloy/keygate) <img align="bottom" height="13" src="https://badgen.net/github/stars/tabloy/keygate?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/tabloy/keygate?style=flat&label=" /> - 自托管的软件授权管理平台，支持订阅、试用、浮动授权和用量计费。
