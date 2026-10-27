@@ -149,6 +149,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 - [Burrow](https://github.com/ArkGravity/burrow) <img align="bottom" height="13" src="https://badgen.net/github/stars/ArkGravity/burrow?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/ArkGravity/burrow?style=flat&label=" /> - A lightweight, self-hosted OIDC identity provider for small teams with TOTP, RBAC, and SSO.
 - [Tinyauth](https://github.com/tinyauthapp/tinyauth) <img align="bottom" height="13" src="https://badgen.net/github/stars/tinyauthapp/tinyauth?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/tinyauthapp/tinyauth?style=flat&label=" /> - A lightweight OpenID Connect authentication server for securing self-hosted apps.
 - [EdgeSSH](https://github.com/aozorae/EdgeSSH) <img align="bottom" height="13" src="https://badgen.net/github/stars/aozorae/EdgeSSH?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/aozorae/EdgeSSH?style=flat&label=" /> - A self-hosted SSH workspace for managing hosts, terminals, files, monitoring, and remote access.
+- [Reins](https://github.com/V-T-V/reins) <img align="bottom" height="13" src="https://badgen.net/github/stars/V-T-V/reins?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/V-T-V/reins?style=flat&label=" /> - A self-hosted zero-trust platform for securely managing remote servers.
 
 ## Business & Office
 
