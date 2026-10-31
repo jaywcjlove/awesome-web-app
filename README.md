@@ -86,6 +86,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 - [Data & Streaming](#data--streaming)
 - [Monitoring & Analytics](#monitoring--analytics)
 - [Documentation & Wiki](#documentation--wiki)
+- [Writing & Publishing](#writing--publishing)
 - [Server & Self-Hosting](#server--self-hosting)
 - [Business & Office](#business--office)
 - [Development Tools](#development-tools)
@@ -134,6 +135,10 @@ Contributions are welcome via PR, and I will feature your app on my social media
 - [Docmost](https://github.com/docmost/docmost) <img align="bottom" height="13" src="https://badgen.net/github/stars/docmost/docmost?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/docmost/docmost?style=flat&label=" /> - An open-source collaborative wiki and documentation software, an alternative to Confluence and Notion.
 - [Jevbox](https://github.com/extend-hq/jevbox) <img align="bottom" height="13" src="https://badgen.net/github/stars/extend-hq/jevbox?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/extend-hq/jevbox?style=flat&label=" /> - A permission-aware document library with searchable hierarchies and source-grounded AI answers.
 - [Think](https://github.com/fantasticit/think) <img align="bottom" height="13" src="https://badgen.net/github/stars/fantasticit/think?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/fantasticit/think?style=flat&label=" /> - A self-hosted knowledge management tool with collaborative documents.
+
+## Writing & Publishing
+
+- [Ayakaleaf Pro](https://github.com/ayaka-notes/ayakaleaf-pro) <img align="bottom" height="13" src="https://badgen.net/github/stars/ayaka-notes/ayakaleaf-pro?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/ayaka-notes/ayakaleaf-pro?style=flat&label=" /> - A self-hosted collaborative LaTeX editor for writing and compiling academic papers.
 
 ## Server & Self-Hosting
 
