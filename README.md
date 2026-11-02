@@ -202,6 +202,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 
 - [连镜](https://github.com/zaylora/video-canvas) <img align="bottom" height="13" src="https://badgen.net/github/stars/zaylora/video-canvas?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/zaylora/video-canvas?style=flat&label=" /> - An AI visual workspace for connecting ideas, media, and creative workflows.
 - [Penpot](https://github.com/penpot/penpot) <img align="bottom" height="13" src="https://badgen.net/github/stars/penpot/penpot?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/penpot/penpot?style=flat&label=" /> - The open-source design and prototyping platform for product teams.
+- [Rigby2D](https://github.com/jaisurya-dev-art/rigby2d) <img align="bottom" height="13" src="https://badgen.net/github/stars/jaisurya-dev-art/rigby2d?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/jaisurya-dev-art/rigby2d?style=flat&label=" /> - A 2D skeletal animation editor for rigging and animating characters for games and film.
 
 ## Finance & Payments
 
