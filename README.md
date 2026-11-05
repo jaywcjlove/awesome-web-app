@@ -159,6 +159,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 
 ## Business & Office
 
+- [x.erp](https://github.com/Zyc009234/x.erp) <img align="bottom" height="13" src="https://badgen.net/github/stars/Zyc009234/x.erp?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Zyc009234/x.erp?style=flat&label=" /> - A self-hosted ERP for managing inventory, finance, and HR offline.
 - [Odoo](https://github.com/odoo/odoo) <img align="bottom" height="13" src="https://badgen.net/github/stars/odoo/odoo?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/odoo/odoo?style=flat&label=" /> - Open-source business apps covering CRM, eCommerce, inventory, project management, and accounting.
 - [FactoryFlow](https://github.com/Doublzzz/FactoryFlow) <img align="bottom" height="13" src="https://badgen.net/github/stars/Doublzzz/FactoryFlow?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Doublzzz/FactoryFlow?style=flat&label=" /> - Local-first order, delivery, and reconciliation management for small factories.
 - [MythManDay](https://github.com/ljl8086/mythmanday) <img align="bottom" height="13" src="https://badgen.net/github/stars/ljl8086/mythmanday?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/ljl8086/mythmanday?style=flat&label=" /> - A local-first timesheet and billing platform for tracking auditable man-days.

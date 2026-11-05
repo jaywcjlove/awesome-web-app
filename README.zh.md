@@ -158,6 +158,7 @@
 
 ## 商业与办公
 
+- [x.erp](https://github.com/Zyc009234/x.erp) <img align="bottom" height="13" src="https://badgen.net/github/stars/Zyc009234/x.erp?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Zyc009234/x.erp?style=flat&label=" /> - 面向中小企业的离线 ERP，统一管理进销存、财务与人事。
 - [Odoo](https://github.com/odoo/odoo) <img align="bottom" height="13" src="https://badgen.net/github/stars/odoo/odoo?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/odoo/odoo?style=flat&label=" /> - 开源商业应用套件，涵盖 CRM、电商、库存、项目管理和会计等。
 - [FactoryFlow](https://github.com/Doublzzz/FactoryFlow) <img align="bottom" height="13" src="https://badgen.net/github/stars/Doublzzz/FactoryFlow?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Doublzzz/FactoryFlow?style=flat&label=" /> - 为小工厂管理订单、送货与对账的本地优先工具。
 - [人天神话 (MythManDay)](https://github.com/ljl8086/mythmanday) <img align="bottom" height="13" src="https://badgen.net/github/stars/ljl8086/mythmanday?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/ljl8086/mythmanday?style=flat&label=" /> - 本地优先的工时与合同结算平台，可将工作成果和会议记录转化为可核算人天。
