@@ -158,6 +158,7 @@
 
 ## 商业与办公
 
+- [Excaliself](https://github.com/maciekzygmunt/excaliself) <img align="bottom" height="13" src="https://badgen.net/github/stars/maciekzygmunt/excaliself?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/maciekzygmunt/excaliself?style=flat&label=" /> - 自托管团队白板，支持实时协作、文件夹与搜索功能。
 - [x.erp](https://github.com/Zyc009234/x.erp) <img align="bottom" height="13" src="https://badgen.net/github/stars/Zyc009234/x.erp?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Zyc009234/x.erp?style=flat&label=" /> - 面向中小企业的离线 ERP，统一管理进销存、财务与人事。
 - [Odoo](https://github.com/odoo/odoo) <img align="bottom" height="13" src="https://badgen.net/github/stars/odoo/odoo?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/odoo/odoo?style=flat&label=" /> - 开源商业应用套件，涵盖 CRM、电商、库存、项目管理和会计等。
 - [FactoryFlow](https://github.com/Doublzzz/FactoryFlow) <img align="bottom" height="13" src="https://badgen.net/github/stars/Doublzzz/FactoryFlow?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Doublzzz/FactoryFlow?style=flat&label=" /> - 为小工厂管理订单、送货与对账的本地优先工具。
