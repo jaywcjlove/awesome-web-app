@@ -128,6 +128,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 
 ## Monitoring & Analytics
 
+- [SiteLens](https://github.com/lzq-0529/sitelens) <img align="bottom" height="13" src="https://badgen.net/github/stars/lzq-0529/sitelens?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/lzq-0529/sitelens?style=flat&label=" /> - Self-hosted e-commerce analytics for traffic, SEO, checkout conversions, and AI search citations.
 - [π RuView](https://github.com/ruvnet/ruview) <img align="bottom" height="13" src="https://badgen.net/github/stars/ruvnet/ruview?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/ruvnet/ruview?style=flat&label=" /> - Real-time vital sign and presence monitoring using WiFi signals.
 
 ## Documentation & Wiki

@@ -127,6 +127,7 @@
 
 ## 监控与分析
 
+- [SiteLens](https://github.com/lzq-0529/sitelens) <img align="bottom" height="13" src="https://badgen.net/github/stars/lzq-0529/sitelens?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/lzq-0529/sitelens?style=flat&label=" /> - 面向独立电商店铺的自托管分析工具，可追踪流量、SEO、结账转化和 AI 搜索引用。
 - [π RuView](https://github.com/ruvnet/ruview) <img align="bottom" height="13" src="https://badgen.net/github/stars/ruvnet/ruview?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/ruvnet/ruview?style=flat&label=" /> - 利用 WiFi 信号进行实时生命体征监测与人员存在检测。
 
 ## 文档与知识库
