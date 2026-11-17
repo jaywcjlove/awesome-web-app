@@ -144,6 +144,7 @@
 
 ## 服务器与自托管
 
+- [FreeSWITCH Console](https://github.com/juki/freeswitch-console) - FreeSWITCH Web 运维台，支持实例监控、通话挂断分析与配置管理。
 - [Umbrel](https://github.com/getumbrel/umbrel) <img align="bottom" height="13" src="https://badgen.net/github/stars/getumbrel/umbrel?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/getumbrel/umbrel?style=flat&label=" /> - 优雅的家庭服务器操作系统，内置 300 多款自托管应用的应用商店。
 - [SFTPGo](https://github.com/drakkan/sftpgo) <img align="bottom" height="13" src="https://badgen.net/github/stars/drakkan/sftpgo?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/drakkan/sftpgo?style=flat&label=" /> - 功能齐全的 SFTP 服务器，可架设加密的 FTP 文件传输服务。
 - [KubePolaris](https://github.com/clay-wangzhi/KubePolaris) <img align="bottom" height="13" src="https://badgen.net/github/stars/clay-wangzhi/KubePolaris?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/clay-wangzhi/KubePolaris?style=flat&label=" /> - 通过直观的 Web 界面管理和监控多个 Kubernetes 集群。

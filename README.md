@@ -145,6 +145,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 
 ## Server & Self-Hosting
 
+- [FreeSWITCH Console](https://github.com/juki/freeswitch-console) - A web console for monitoring FreeSWITCH, analyzing call hangups, and managing configuration.
 - [Umbrel](https://github.com/getumbrel/umbrel) <img align="bottom" height="13" src="https://badgen.net/github/stars/getumbrel/umbrel?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/getumbrel/umbrel?style=flat&label=" /> - An elegant home server OS with an app store of over 300 self-hosted apps.
 - [SFTPGo](https://github.com/drakkan/sftpgo) <img align="bottom" height="13" src="https://badgen.net/github/stars/drakkan/sftpgo?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/drakkan/sftpgo?style=flat&label=" /> - A full-featured SFTP server for setting up secure encrypted file transfer services.
 - [KubePolaris](https://github.com/clay-wangzhi/KubePolaris) <img align="bottom" height="13" src="https://badgen.net/github/stars/clay-wangzhi/KubePolaris?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/clay-wangzhi/KubePolaris?style=flat&label=" /> - A self-hosted web platform for managing and monitoring multiple Kubernetes clusters.
