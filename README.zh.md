@@ -209,6 +209,7 @@
 ## 设计与创意
 
 - [连镜](https://github.com/zaylora/video-canvas) <img align="bottom" height="13" src="https://badgen.net/github/stars/zaylora/video-canvas?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/zaylora/video-canvas?style=flat&label=" /> - 开源 AI 视觉创作工作台，可在无限画布中连接灵感、素材与生成流程。
+- [Parallax](https://github.com/nickvasilescu/parallax) <img align="bottom" height="13" src="https://badgen.net/github/stars/nickvasilescu/parallax?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/nickvasilescu/parallax?style=flat&label=" /> - 整合图片、视频、语音与音乐生成工具的 AI 多媒体创作平台。
 - [Penpot](https://github.com/penpot/penpot) <img align="bottom" height="13" src="https://badgen.net/github/stars/penpot/penpot?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/penpot/penpot?style=flat&label=" /> - 面向产品团队的开源设计与原型协作平台。
 - [Rigby2D](https://github.com/jaisurya-dev-art/rigby2d) <img align="bottom" height="13" src="https://badgen.net/github/stars/jaisurya-dev-art/rigby2d?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/jaisurya-dev-art/rigby2d?style=flat&label=" /> - 面向游戏与影视的 2D 骨骼动画编辑器，支持角色绑定、动画制作与导出。
 
